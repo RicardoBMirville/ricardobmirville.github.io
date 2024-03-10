@@ -1,2 +1,6 @@
-new read me
-theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
