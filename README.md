@@ -20,8 +20,8 @@ This project took many forms and I wasn’t truly sure what I wanted to analyze,
 
 ## What was used to capture the data:
 
-** I used a standard scale that tracked in either pounds (lbs) or kilos (kl). I recorded each weight in pounds.**
-** I used The app ’Track’ from the app store to track my caloric intake **
-** I used apple watch and Apple Fitness App to record my calories burned and daily step count **
-** I used ____ to track my bmr that i would update according to my current weight **
+**I used a standard scale that tracked in either pounds (lbs) or kilos (kl). I recorded each weight in pounds**
+**I used The app ’Track’ from the app store to track my caloric intake**
+**I used apple watch and Apple Fitness App to record my calories burned and daily step count**
+**I used ____ to track my bmr that i would update according to my current weight**
 
