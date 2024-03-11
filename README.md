@@ -1,4 +1,4 @@
-`#RRGGBB`	
+
 # SQL Project 1 Personal Fitness Data
 ### Project Start: 02/01/2024
 ### Project End: 04/31/2024
@@ -29,7 +29,6 @@ This project took many forms and I wasn’t truly sure what I wanted to analyze,
 **I used ____ to track my bmr that would be adjusted depending on my current weight**
 
 
-># This is a quote
-
+> Using the Track App was used as best as possible. -
 
 
